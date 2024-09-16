@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## This is Jordan Le's PERSONAL repository for ALL acheivments in ICS3U Semester One
+### This is Jordan Le's PERSONAL repository for ALL acheivments in ICS3U Semester One
 
 <!--
 **Jordanle7/JordanLe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
